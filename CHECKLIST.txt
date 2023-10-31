@@ -1,0 +1,11 @@
+energy label - reflects and is the same 
+urls is always with small letters
+if PIM specs are missing - if we can assign manually, or not.
+
+Hi,
+
+AEM Publish Flag needs to be Y. After publishing, please submit workflow again so the page syncs and it MUST reflect on PLP.
+
+Add PIM SKU and GP1 ID in the PTT fields.
+
+Thank you!
